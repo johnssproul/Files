@@ -1,0 +1,15 @@
+Activity 1
+1. Where do FASTQ files come from? (what process generates them?)
+
+
+2. Where do SAM files come from? (what process generates them?)
+
+
+3. What are general similarities and differences between their content and structure?
+
+
+
+
+Activity 2
+
+Outline/Pseudocode:
